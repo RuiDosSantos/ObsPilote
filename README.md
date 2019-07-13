@@ -1,4 +1,5 @@
 # ObsPilote
 Pilote Obs studio from an other PC
 
-You have to install ObsCommand on the machine Obs Studio before to pilote.
+Requires obs-websocket plugin (included): https://obsproject.com/forum/resources/obs-websocket-remote-control-of-obs-studio-made-easy.466/
+
